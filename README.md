@@ -221,4 +221,4 @@ After applying these changes:
 
 ✅ iOS: Should compile without CocoaPods errors.
 
-✅ Android: Should fetch .aar files successfully.
+✅ Android: Should fetch `.aar` files successfully.
